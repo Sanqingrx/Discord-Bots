@@ -88,4 +88,3 @@ Licensed under the [MIT License](LICENSE).
 
 欢迎 PR，欢迎 Star⭐️！  
 PRs and Stars are welcome! ⭐️
-![image](https://github.com/user-attachments/assets/6d177c25-0bc5-4286-afc4-30eea6ba4dba)
