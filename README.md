@@ -75,7 +75,7 @@ To prevent rounding or scientific notation, the script adds a `\t` prefix so Exc
 
 | Username       | Discord ID           |
 |----------------|----------------------|
-| testuser#1234  | `\t123456789012345678` |
+| testuser       | 1234567890987654321  |
 
 ---
 
